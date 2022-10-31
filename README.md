@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @praveen-prasad2
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Praveen Prasad
+- 👀 I’m interested in FullStack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Bigger Projects
 - 📫 How to reach me praveenprasad2510@gmail.com
